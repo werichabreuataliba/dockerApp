@@ -11844,11 +11844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wataliba\\source\\repos\\DocekrApp\\DocekrApp\\DocekrApp.csproj",
+      "projectUniqueName": "C:\\Users\\wataliba\\source\\repos\\dockerApp\\DocekrApp.csproj",
       "projectName": "DocekrApp",
-      "projectPath": "C:\\Users\\wataliba\\source\\repos\\DocekrApp\\DocekrApp\\DocekrApp.csproj",
+      "projectPath": "C:\\Users\\wataliba\\source\\repos\\dockerApp\\DocekrApp.csproj",
       "packagesPath": "C:\\Users\\wataliba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wataliba\\source\\repos\\DocekrApp\\DocekrApp\\obj\\",
+      "outputPath": "C:\\Users\\wataliba\\source\\repos\\dockerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
